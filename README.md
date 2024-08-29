@@ -1,0 +1,1 @@
+an advanced image processing solution using OpenCV and NumPy that combines two photographs of the same scene—one taken with flash and one without—to create a single image with optimized lighting conditions
